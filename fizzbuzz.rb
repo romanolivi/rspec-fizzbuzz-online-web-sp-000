@@ -9,3 +9,9 @@ def fizzbuzz(num)
     "nil"
   end
 end
+
+
+
+
+
+fizzbuzz(30)
