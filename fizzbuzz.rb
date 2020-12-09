@@ -14,4 +14,4 @@ end
 
 
 
-puts fizzbuzz(30)
+puts fizzbuzz(4)
